@@ -1,0 +1,11 @@
+<suite name="My Test Suite">
+
+    <test name="My Test">
+        <classes>
+            <class name="com.testng.tests.LoginTest"/>
+            <class name="com.testng.tests.HomeTest"/>
+            <class name="com.testng.tests.SwitchToTest"/>           
+        </classes>
+    </test>
+
+</suite>

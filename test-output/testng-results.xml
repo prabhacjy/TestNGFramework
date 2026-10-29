@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-29T01:16:40 CDT" name="My Test Suite" finished-at="2026-10-29T01:17:48 CDT" duration-ms="68287">
+    <groups>
+    </groups>
+    <test started-at="2026-10-29T01:16:40 CDT" name="My Test" finished-at="2026-10-29T01:17:48 CDT" duration-ms="68287">
+      <class name="com.testng.tests.HomeTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.HomeTest@6025e1b6]" started-at="2026-10-29T01:16:48 CDT" name="launch" finished-at="2026-10-29T01:16:49 CDT" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="clickHomeTab()[pri:0, instance:com.testng.tests.HomeTest@6025e1b6]" started-at="2026-10-29T01:16:49 CDT" name="clickHomeTab" finished-at="2026-10-29T01:16:55 CDT" duration-ms="5850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickHomeTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.HomeTest@6025e1b6]" started-at="2026-10-29T01:16:55 CDT" name="teardown" finished-at="2026-10-29T01:16:55 CDT" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.tests.HomeTest -->
+      <class name="com.testng.tests.SwitchToTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:16:55 CDT" name="launch" finished-at="2026-10-29T01:16:58 CDT" duration-ms="3194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="clickAlertSwitchToDropDown()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:16:58 CDT" name="clickAlertSwitchToDropDown" finished-at="2026-10-29T01:17:06 CDT" duration-ms="7708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAlertSwitchToDropDown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:06 CDT" name="teardown" finished-at="2026-10-29T01:17:06 CDT" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:06 CDT" name="launch" finished-at="2026-10-29T01:17:09 CDT" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="clickTabsSwitchToDropDown()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:09 CDT" name="clickTabsSwitchToDropDown" finished-at="2026-10-29T01:17:17 CDT" duration-ms="7669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickTabsSwitchToDropDown -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:17 CDT" name="teardown" finished-at="2026-10-29T01:17:17 CDT" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:17 CDT" name="launch" finished-at="2026-10-29T01:17:20 CDT" duration-ms="3143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="clickWindowsSwitchToDropDowm()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:20 CDT" name="clickWindowsSwitchToDropDowm" finished-at="2026-10-29T01:17:35 CDT" duration-ms="14349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickWindowsSwitchToDropDowm -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:35 CDT" name="teardown" finished-at="2026-10-29T01:17:35 CDT" duration-ms="106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:35 CDT" name="launch" finished-at="2026-10-29T01:17:38 CDT" duration-ms="3137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="performMoveToSwitchToTab()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:38 CDT" name="performMoveToSwitchToTab" finished-at="2026-10-29T01:17:48 CDT" duration-ms="10322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performMoveToSwitchToTab -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.SwitchToTest@22ff4249]" started-at="2026-10-29T01:17:48 CDT" name="teardown" finished-at="2026-10-29T01:17:48 CDT" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.tests.SwitchToTest -->
+      <class name="com.testng.tests.LoginTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:40 CDT" name="launch" finished-at="2026-10-29T01:16:43 CDT" duration-ms="2657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="loginWithInvalidCredentials()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:43 CDT" name="loginWithInvalidCredentials" finished-at="2026-10-29T01:16:43 CDT" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:43 CDT" name="teardown" finished-at="2026-10-29T01:16:43 CDT" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:43 CDT" name="launch" finished-at="2026-10-29T01:16:44 CDT" duration-ms="957" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="loginWithPasswordAlone()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:44 CDT" name="loginWithPasswordAlone" finished-at="2026-10-29T01:16:45 CDT" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithPasswordAlone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:45 CDT" name="teardown" finished-at="2026-10-29T01:16:45 CDT" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:45 CDT" name="launch" finished-at="2026-10-29T01:16:46 CDT" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="loginWithUserNameAlone()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:46 CDT" name="loginWithUserNameAlone" finished-at="2026-10-29T01:16:46 CDT" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithUserNameAlone -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:46 CDT" name="teardown" finished-at="2026-10-29T01:16:46 CDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:46 CDT" name="launch" finished-at="2026-10-29T01:16:47 CDT" duration-ms="892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="loginWithValidCredentials()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:47 CDT" name="loginWithValidCredentials" finished-at="2026-10-29T01:16:48 CDT" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.tests.LoginTest@692f203f]" started-at="2026-10-29T01:16:48 CDT" name="teardown" finished-at="2026-10-29T01:16:48 CDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.tests.LoginTest -->
+    </test> <!-- My Test -->
+  </suite> <!-- My Test Suite -->
+</testng-results>
