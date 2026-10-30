@@ -1,0 +1,8 @@
+com\testng\pages\InteractionsPage.class
+com\testng\pages\HomePage.class
+com\testng\pages\LoginPage.class
+com\testng\tests\InteractionsTest.class
+com\testng\tests\SwitchToTest.class
+com\testng\tests\LoginTest.class
+com\testng\pages\SwitchToPage.class
+com\testng\tests\HomeTest.class
